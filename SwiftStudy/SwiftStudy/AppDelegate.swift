@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftStudy
 //
-//  Created by 名品导购网MPLife.com on 2017/12/21.
+//  Created by ZTT on 2017/12/21.
 //  Copyright © 2017年 sweet. All rights reserved.
 //
 
